@@ -1,5 +1,4 @@
 # March-Machine-Learning-Mania-2025
-# March Machine Learning Mania 2025 - Competition Summary
 
  ## Overview
  The **March Machine Learning Mania 2025** Kaggle competition challenges participants to predict the outcomes of both the men's and women's 2025 NCAA Division 1 basketball tournaments. Participants are required to submit predictions for every possible matchup in the tournaments, using historical NCAA game data provided. The competition, now in its eleventh year, evaluates submissions using the **Brier score**, which measures the accuracy of probabilistic predictions (equivalent to mean squared error in this context).
